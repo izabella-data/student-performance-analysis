@@ -4,7 +4,7 @@
 
 Цель проекта — исследовать факторы, связанные с результатами студентов на итоговом экзамене.
 
-В рамках анализа рассматриваются:
+В рамках проекта были проанализированы следующие факторы:
 
 - посещаемость занятий;
 - время, затрачиваемое на учёбу;
@@ -109,6 +109,27 @@
 - определение группы риска;
 - поиск лучших студентов в каждой группе образования родителей.
 
+## Примеры результатов запросов
+
+Ниже представлены результаты выполнения некоторых SQL-запросов,
+использованных в рамках проекта.
+
+### Dataset Overview
+
+![Dataset Overview](images/overview.png)
+
+### Attendance Analysis
+
+![Attendance Analysis](images/attendance_analysis.png)
+
+### Study Time Analysis
+
+![Study Time Analysis](images/study_time_analysis.png)
+
+### Student Ranking
+
+![Student Ranking](images/student_ranking.png)
+
 ## Структура проекта
 
 ```
@@ -119,17 +140,14 @@ student-performance-analysis/
 │
 ├── sql/
 │   ├── 01_data_overview.sql
-│   ├── 02_attendance_analysis.sql
-│   ├── 03_study_time_analysis.sql
-│   ├── 04_internet_access_analysis.sql
-│   ├── 05_parental_education_analysis.sql
-│   ├── 06_part_time_job_analysis.sql
-│   ├── 07_student_ranking.sql
-│   ├── 08_above_average_students.sql
-│   ├── 09_risk_group.sql
+│   ├── ...
 │   └── 10_best_student_per_group.sql
 │
 ├── images/
+│   ├── overview.png
+│   ├── attendance_analysis.png
+│   ├── study_time_analysis.png
+│   └── student_ranking.png
 │
 ├── docs/
 │
