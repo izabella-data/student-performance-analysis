@@ -153,3 +153,29 @@ student-performance-analysis/
 │
 └── README.md
 ```
+---
+
+# Power BI Dashboard
+
+This project also includes an interactive Power BI dashboard built using the same student performance dataset.
+
+## Dashboard Features
+
+- Average Exam Score (KPI)
+- Student Grade Distribution
+- Average Exam Score by Internet Access
+- Average Exam Score by Parental Education
+- Average Exam Score by Part-time Job
+- Average Exam Score by Extracurricular Activities
+
+## Dashboard Preview
+
+![Power BI Dashboard](images/dashboard.png)
+
+## Power BI File
+
+The complete Power BI report is available in:
+
+```text
+powerbi/student-performance-dashboard.pbix
+```
