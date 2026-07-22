@@ -136,7 +136,7 @@
 student-performance-analysis/
 │
 ├── data/
-│   └── dataset.csv
+│   └── student_performance_dataset.csv
 │
 ├── sql/
 │   ├── 01_data_overview.sql
