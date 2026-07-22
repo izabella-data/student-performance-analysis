@@ -25,8 +25,8 @@ Result:
 
 Part-Time Job | Students | Average Exam Score
 --------------|----------|-------------------
-No            | —        | 84.58
-Yes           | —        | 81.29
+No            | 684      | 84.58
+Yes           | 316      | 81.29
 
 Conclusion:
 Students without a part-time job achieved slightly

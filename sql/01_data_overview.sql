@@ -28,8 +28,8 @@ Metric                  | Value
 ------------------------|---------
 Total Students          | 1000
 Average Exam Score      | 83.54
-Minimum Exam Score      | (query result)
-Maximum Exam Score      | (query result)
+Minimum Exam Score      | 46.80
+Maximum Exam Score      | 100.00
 Average Attendance (%)  | 85.09
 Average Study Time (h)  | 3.57
 

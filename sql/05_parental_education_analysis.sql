@@ -25,11 +25,11 @@ Result:
 
 Parental Education | Students | Average Exam Score
 -------------------|----------|-------------------
-PhD                | —        | 85.06
-Masters            | —        | —
-Bachelors          | —        | —
-None               | —        | —
-High School        | —        | 83.23
+PhD                | 50       | 85.06
+Masters            | 184      | 84.03
+Bachelors          | 102      | 83.44
+None               | 308      | 83.40
+High School        | 356      | 83.23
 
 Conclusion:
 The relationship between parental education and final
